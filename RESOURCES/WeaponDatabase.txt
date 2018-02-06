@@ -1,0 +1,2 @@
+NAME	|	FILENAME	|	ROF[shots/min]	|	DAMAGE	|	BULLET_SPEED[m/s]	|	MAGAZINE_CAPACITY	|	RELOAD_TIME[ms]
+GUN_1	   WEAPON_1.obj		500					20			300						30						500

@@ -1,0 +1,92 @@
+Action.param[0]: 2 t: 1504
+Action.param[0]: 4 t: 1468
+Action.param[0]: 7 t: 1612
+Action.param[0]: 8 t: 1843
+Action.param[0]: 10 t: 1569
+Action.param[0]: 10 t: 1748
+Action.param[0]: 9 t: 1702
+Action.param[0]: 9 t: 1717
+Action.param[0]: 11 t: 1696
+Action.param[0]: 11 t: 1412
+Action.param[0]: 10 t: 1607
+Action.param[0]: 9 t: 1926
+Action.param[0]: 6 t: 1573
+Action.param[0]: 3 t: 2206
+Action.param[0]: 1 t: 1448
+Action.param[0]: 1 t: 1568 yRot: 0.047040
+Action.param[0]: 2 t: 1433 yRot: 0.085980
+Action.param[0]: 4 t: 1395 yRot: 0.167400
+Action.param[0]: 4 t: 1260 yRot: 0.151200
+Action.param[0]: 5 t: 1801 yRot: 0.270150
+Action.param[0]: 5 t: 1403 yRot: 0.210450
+Action.param[0]: 4 t: 1391 yRot: 0.166920
+Action.param[0]: 5 t: 1499 yRot: 0.224850
+Action.param[0]: 5 t: 1239 yRot: 0.185850
+Action.param[0]: 5 t: 1532 yRot: 0.229800
+Action.param[0]: 6 t: 1240 yRot: 0.223200
+Action.param[0]: 6 t: 1160 yRot: 0.208800
+Action.param[0]: 6 t: 1332 yRot: 0.239760
+Action.param[0]: 6 t: 1326 yRot: 0.238680
+Action.param[0]: 6 t: 1116 yRot: 0.200880
+Action.param[0]: 6 t: 1300 yRot: 0.234000
+Action.param[0]: 6 t: 1297 yRot: 0.233460
+Action.param[0]: 5 t: 1314 yRot: 0.197100
+Action.param[0]: 4 t: 1195 yRot: 0.143400
+Action.param[0]: 4 t: 1268 yRot: 0.152160
+Action.param[0]: 2 t: 1202 yRot: 0.072120
+Action.param[0]: 3 t: 1631 yRot: 0.146790
+Action.param[0]: 2 t: 1111 yRot: 0.066660
+Action.param[0]: 2 t: 2169 yRot: 0.130140
+Action.param[0]: 1 t: 1308 yRot: 0.039240
+Action.param[0]: 5 t: 1303 yRot: 0.195450
+Action.param[0]: 3 t: 1241 yRot: 0.111690
+Action.param[0]: 4 t: 1343 yRot: 0.161160
+Action.param[0]: 3 t: 1273 yRot: 0.114570
+Action.param[0]: 2 t: 1319 yRot: 0.079140
+Action.param[0]: 2 t: 1442 yRot: 0.086520
+Action.param[0]: 3 t: 1452 yRot: 0.130680
+Action.param[0]: 2 t: 1195 yRot: 0.071700
+Action.param[0]: 3 t: 1219 yRot: 0.109710
+Action.param[0]: 5 t: 1289 yRot: 0.193350
+Action.param[0]: 1 t: 1238 yRot: 0.037140
+Action.param[0]: 4 t: 1352 yRot: 0.162240
+Action.param[0]: 3 t: 1273 yRot: 0.114570
+Action.param[0]: 4 t: 1207 yRot: 0.144840
+Action.param[0]: 1 t: 1364 yRot: 0.040920
+Action.param[0]: 4 t: 1419 yRot: 0.170280
+Action.param[0]: 4 t: 1389 yRot: 0.166680
+Action.param[0]: 4 t: 1260 yRot: 0.151200
+Action.param[0]: 3 t: 1442 yRot: 0.129780
+Action.param[0]: 4 t: 1374 yRot: 0.164880
+Action.param[0]: 5 t: 1214 yRot: 0.182100
+Action.param[0]: 3 t: 1158 yRot: 0.104220
+Action.param[0]: 3 t: 1310 yRot: 0.117900
+Action.param[0]: 4 t: 1420 yRot: 0.170400
+Action.param[0]: 5 t: 1397 yRot: 0.209550
+Action.param[0]: 6 t: 1418 yRot: 0.255240
+Action.param[0]: 6 t: 1214 yRot: 0.218520
+Action.param[0]: 6 t: 1409 yRot: 0.253620
+Action.param[0]: 5 t: 1456 yRot: 0.218400
+Action.param[0]: 4 t: 1691 yRot: 0.202920
+Action.param[0]: 4 t: 1096 yRot: 0.131520
+Action.param[0]: 3 t: 1615 yRot: 0.145350
+Action.param[0]: 1 t: 1492 yRot: 0.044760
+Action.param[0]: 2 t: 1312 yRot: 0.078720
+Action.param[0]: 3 t: 1207 yRot: 0.108630
+Action.param[0]: 2 t: 1865 yRot: 0.111900
+Action.param[0]: 3 t: 1758 yRot: 0.158220
+Action.param[0]: 2 t: 1695 yRot: 0.101700
+Action.param[0]: 3 t: 1738 yRot: 0.156420
+Action.param[0]: 1 t: 1400 yRot: 0.042000
+Action.param[0]: 3 t: 1755 yRot: 0.157950
+Action.param[0]: 1 t: 1468 yRot: 0.044040
+Action.param[0]: 4 t: 1969 yRot: 0.236280
+Action.param[0]: 2 t: 1387 yRot: 0.083220
+Action.param[0]: 1 t: 2237 yRot: 0.067110
+Action.param[0]: 2 t: 1397 yRot: 0.083820
+Action.param[0]: 1 t: 2583 yRot: 0.077490
+Action.param[0]: 2 t: 1848 yRot: 0.110880
+Action.param[0]: 2 t: 2421 yRot: 0.145260
+Action.param[0]: 1 t: 1328 yRot: 0.039840
+Action.param[0]: 1 t: 1464 yRot: 0.043920
+Action.param[0]: 1 t: 1218 yRot: 0.036540
