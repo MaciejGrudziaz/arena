@@ -21,10 +21,10 @@ GAME CONTROLS:
   ~ 				- toggle the ingame console on/off
 	
 CONSOLE COMMANDS:
-  show.fps=1/0 			- show/hide current FPS value 
-  show.input.time=1/0 		- show/hide current time of execution of the input module [in microseconds]
-  show.physics.time=1/0		- show/hide current time of execution of the physics module [in microseconds]
-  show.graphics.time=1/0	- show/hide current time of execution of the graphics module [in microseconds]
+  show.fps=1/0 			- show/hide FPS value 
+  show.input.time=1/0 		- show/hide time of execution of the input module [in microseconds]
+  show.physics.time=1/0		- show/hide time of execution of the physics module [in microseconds]
+  show.graphics.time=1/0	- show/hide time of execution of the graphics module [in microseconds]
   show.colbox=1/0		- show/hide hit boxes ['collision boxes'] of all ingame characters
   show.timer=1/0		- start and show/stop and hide an ingame timer
 	
