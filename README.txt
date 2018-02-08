@@ -9,7 +9,7 @@ HOW TO BUILD:
   1. To build this project you'll need Windows 10 SDK toolkit [best if you're using Microsoft Visual Studio].
   2. In the programming environment:
 	- you have to add the HEADERS catalogue to the search path for include files
-	- you have to additionaly include libraries 'opengl32.lib', 'glu32.lib', 'dinput8.lib' and 'dxguid.lib' when building this project
+	- you have to additionally include libraries 'opengl32.lib', 'glu32.lib', 'dinput8.lib' and 'dxguid.lib' when building this project
   3. LOGS, MODELS and RESOURCES catalogues have to be in the same catalogue as the output .exe file of the built game.
 	
 GAME CONTROLS:
