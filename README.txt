@@ -4,6 +4,8 @@ THE CONTENT OF THE CATALOGUES:
   LOGS 				- log files [if created in the game]
   MODELS 			- 3D models used in game
   RESOURCES 			- all remaining resources files used in the game
+  TUTORIAL			- photos for 'How to build?' part of the wiki
+  SCREENSHOTS			- actual screenshots from the game
  
 HOW TO BUILD:
   1. To build this project you'll need Windows 10 SDK toolkit [best if you're using Microsoft Visual Studio].
